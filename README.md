@@ -12,8 +12,6 @@
 
 ### 📊 Usage
 
-### 📜 License
-
 ### 🌟 Acknowledgements
 
 
@@ -25,7 +23,7 @@
 
 🔍 Dynamic filters and slicers: Explore data by region, product, or time period.
 
-📊 Key metrics at a glance: View total sales, average order value, and top-performing products.
+📊 Key metrics at a glance: View customer count ,monthly sales, and sales growth trends.
 
 🎯 Drill-down analysis: Get deeper insights into your sales data.
 
@@ -61,32 +59,6 @@ Explore insights like customer count ,monthly sales, and sales growth trends.
 Refresh the Data:
 
 Update the source data to see real-time changes reflected in the dashboard.
-
-
-## 🤝 Contributing
-
-We ❤️ contributions! Here’s how you can help:
-
-Fork the repository.
-
-Create a branch:
-
-git checkout -b feature-name
-
-Make your changes and commit:
-
-git commit -m 'Added a new feature'
-
-Push to your branch:
-
-git push origin feature-name
-
-Submit a pull request to the main branch.
-
-
-## 📜 License
-
-📝 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 ## 🌟 Acknowledgements
