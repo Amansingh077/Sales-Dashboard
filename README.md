@@ -8,11 +8,7 @@
 
 ### ✨ Features
 
-### 🛠️ Getting Started
-
 ### 📋 Prerequisites
-
-### 📂 Installation
 
 ### 📊 Usage
 
@@ -36,7 +32,6 @@
 🔄 Real-time updates: Seamlessly refresh the dashboard with new data.
 
 
-## 🛠️ Getting Started
 
 ### 📋 Prerequisites
 
@@ -45,25 +40,6 @@ Before you begin, ensure you have:
 ✅ Microsoft Excel 2016 or later installed.
 
 ✅ Sales data in a compatible format (e.g., CSV, Excel).
-
-### 📂 Installation
-
-Clone or download the repository:
-
-### Clone the repository
-git clone https://github.com/your-username/sales-dashboard.git
-
-Open the file:
-
-Navigate to the downloaded folder and open Sales_Dashboard.xlsx in Excel.
-
-Load your data:
-
-Follow the instructions in the file to import your sales data into the dashboard.
-
-Save your progress:
-
-Save the file to ensure all changes are retained.
 
 
 ## 📊 Usage
